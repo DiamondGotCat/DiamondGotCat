@@ -1,5 +1,4 @@
-
-![ダイヤ猫](ダイヤの猫.png)
+![ダイヤ猫](DiamondGotCatIconSquare.png)
 
 👋 Hi, I’m @DiamondGotCat
 <br>
