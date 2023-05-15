@@ -32,6 +32,17 @@ Welcome!
   </body>
 </html>
 ```
+# Link
+[Youtube](https://youtube.com/@DiamondGotCat)
+[Blog](https://sites.google.com/view/diamondgotcat-blog)
+[Azisaba Wiki](https://sites.google.com/view/diamondgotcat-azisabawiki)
+<br>
+[ChatGUI](https://diamondgotcat.github.io/ChatGUI/index.html)
+[C Timer](https://diamondgotcat.github.io/C%20Timer.html)
+[Shogi Web](https://diamondgotcat.github.io/%E5%B0%86%E6%A3%8BWeb%20(Scratch%E3%81%A7%E5%8E%9F%E4%BD%9C%E3%81%82%E3%82%8A).html)
+[StopWatch](https://diamondgotcat.github.io/Stop%20Watch.html)
+[Digital roulette](https://diamondgotcat.github.io/Digital%20roulette.html)
+
 
 <!---
 DiamondGotCat/DiamondGotCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
