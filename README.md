@@ -1,3 +1,6 @@
+
+![ダイヤ猫](ダイヤの猫.png)
+
 👋 Hi, I’m @DiamondGotCat
 <br>
 I like Minecraft :)
