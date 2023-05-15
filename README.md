@@ -9,7 +9,7 @@ My Computer is Mac(Intel).
 <br>
 It's a 2013 Mac, so Minecraft and Xcode are heavy... but I'll do my best.
 
-'''
+```
 // Welcome! Program
 
 // Swift/SwiftUI/Python
@@ -31,7 +31,7 @@ Welcome!
     Welcome!
   </body>
 </html>
-'''
+```
 
 <!---
 DiamondGotCat/DiamondGotCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
