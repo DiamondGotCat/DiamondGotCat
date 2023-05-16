@@ -1,5 +1,4 @@
-![ダイヤ猫](DiamondGotCatIconSquare.png)
-
+# Hello!
 👋 Hi, I’m @DiamondGotCat
 <br>
 I like Minecraft :)
@@ -7,6 +6,10 @@ I like Minecraft :)
 My Computer is Mac(Intel).
 <br>
 It's a 2013 Mac, so Minecraft and Xcode are heavy... but I'll do my best.
+
+# Help me!
+I want to create software to help players with Minecraft,
+Is there anyone who would be willing to make it with me?
 
 ```
 // Welcome! Program
