@@ -1,4 +1,4 @@
-![DiamondGotCat](DiamondGotCat Library Circle.png)
+![DiamondGotCat](DiamondGotCatLibraryCircle.png)
 
 # Hello!
 👋 Hi, I’m @DiamondGotCat
