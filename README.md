@@ -1,3 +1,5 @@
+![DiamondGotCat](DiamondGotCat Library Circle.png)
+
 # Hello!
 👋 Hi, I’m @DiamondGotCat
 <br>
