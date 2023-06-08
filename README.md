@@ -1,15 +1,11 @@
 # Hello!
-👋 Hi, I’m @DiamondGotCat
-<br>
-I like Minecraft :)
-<br>
-My Computer is Mac(Intel).
-<br>
-It's a 2013 Mac, so Minecraft and Xcode are heavy... but I'll do my best.
+I playing Minecraft.
 
-# Help me!
-I want to create software to help players with Minecraft,
-Is there anyone who would be willing to make it with me?
+And I make App.
+
+And... I make Program.
+
+Nice To Meet You!
 
 # Welcome Program
 
@@ -44,8 +40,6 @@ Welcome!
 [Blog](https://sites.google.com/view/diamondgotcat-blog)
 <br>
 [Azisaba Wiki](https://sites.google.com/view/diamondgotcat-azisabawiki)
-<br>
-[ChatGUI](https://diamondgotcat.github.io/ChatGUI/index.html)
 
 <!---
 DiamondGotCat/DiamondGotCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
