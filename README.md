@@ -1,12 +1,14 @@
-こんにちは！
-僕はDaiyaNekoです、よろしくお願いします！
-個人でMinecraft実況・Minecraft建築・MinecraftのMOD開発・プログラミングをしています。
-Youtubeもやってます。
-コラボや参加は嬉しいです！
-特にMinecraftのサーバーへの参加は超嬉しいです！
+I'm a cat who can write **programs**.
 
-Line公式アカウントはこちら:
-[DaiyaNeko LINE公式アカウント](https://lin.ee/NBFvFfu)
+Yes, I'm *kidding* :)
+
+I am writing a program using a <ins>2013 iMac</ins>.
+
+macOS uses <ins>OpenCore Legacy Patcher</ins> and is running <ins>Ventura</ins>.
+
+<ins>Minecraft</ins> is fun :D
+
+thank you.
 
 <!---
 DiamondGotCat/DiamondGotCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
