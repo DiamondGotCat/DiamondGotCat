@@ -4,7 +4,7 @@ Yes, I'm *kidding* :)
 
 I am writing a program using a <ins>2013 iMac</ins>.
 
-macOS uses <ins>OpenCore Legacy Patcher</ins> and is running <ins>Ventura</ins>.
+macOS uses <ins>OpenCore Legacy Patcher</ins> and is running <ins>Sonoma</ins>.
 
 <ins>Minecraft</ins> is fun :D
 
