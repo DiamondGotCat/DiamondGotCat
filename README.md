@@ -8,7 +8,9 @@ macOS uses <ins>OpenCore Legacy Patcher</ins> and is running <ins>Sonoma</ins>.
 
 <ins>Minecraft</ins> is fun :D
 
-thank you.
+I have submitted pull requests to LiquidBounce and they all **failed**!
+
+My code skills are **not** good at *all*!
 
 <!---
 DiamondGotCat/DiamondGotCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
