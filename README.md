@@ -1,6 +1,6 @@
 I speak **Japanese** and English.
 
-# Auto generated system info By TechCat
+# Auto generated system info By TechCat56
 
 `````python
 
