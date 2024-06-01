@@ -4,7 +4,7 @@ I speak japanese, I am not good at English.
 # A proud repository
 *I am Sleepy...*
 
-## NIT
+## Next-in-the Installer
 Simple Package Manager for Python.
 
 [GitHub](https://github.com/DiamondGotCat/NIT)
