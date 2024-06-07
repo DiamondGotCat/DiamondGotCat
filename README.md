@@ -10,4 +10,6 @@ Simple Package Manager for Python.
 [GitHub](https://github.com/DiamondGotCat/NIT)
 
 # About Profile Picture
-It's AI art by Microsoft Designer AI
+
+- **??? ~ 2024-06-07 16:14 UTC+9 (Japan):** It's AI art by Microsoft Designer AI
+- **2024-06-07 16:14 UTC+9 (Japan) ~ ???:** Created with Adobe Illustrator
