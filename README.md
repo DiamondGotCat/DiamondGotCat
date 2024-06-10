@@ -11,5 +11,5 @@ Simple Package Manager for Python.
 
 # About Profile Picture
 
-- **??? ~ 2024-06-07 16:14 UTC+9 (Japan):** It's AI art by Microsoft Designer AI
-- **2024-06-07 16:14 UTC+9 (Japan) ~ ???:** Created with Adobe Illustrator
+- **??? ~ 2024-06-07 16:14 (UTC +09:00) :** It's AI art by Microsoft Designer AI
+- **2024-06-07 16:14 (UTC +09:00) ~ ??? :** Created with Adobe Illustrator
