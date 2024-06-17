@@ -9,6 +9,11 @@ Simple Package Manager for Python.
 
 [GitHub](https://github.com/DiamondGotCat/NIT)
 
+## ModInstaller
+Minecraft Mod Installer for macOS
+
+[GitHub](https://github.com/DiamondGotCat/ModInstaller)
+
 # About Profile Picture
 
 - **??? ~ 2024-06-07 16:14 (UTC +09:00) :** It's AI art by Microsoft Designer AI
