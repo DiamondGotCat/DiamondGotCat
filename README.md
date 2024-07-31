@@ -1,3 +1,6 @@
+
+![DiamondGotCat-CR](https://github.com/user-attachments/assets/cfd48a07-76b9-413b-8d01-0f72b884c3ff)
+
 Hello! I am Cat!
 I speak japanese, I am not good at English.
 
