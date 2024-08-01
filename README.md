@@ -1,5 +1,5 @@
 
-![DiamondGotCat-CR](https://github.com/user-attachments/assets/cfd48a07-76b9-413b-8d01-0f72b884c3ff)
+![DiamondGotCat](https://github.com/user-attachments/assets/5ec20f7a-6bdc-4267-8737-1bc46beae0ab)
 
 Hello! I am Cat!
 I speak japanese, I am not good at English.
