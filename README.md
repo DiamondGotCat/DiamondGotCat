@@ -10,7 +10,9 @@ I speak japanese, I am not good at English.
 # My machine learning repository
 
 ## Azuki.ai (Text Generation)
-A community-driven generative AI project
+Azuki.ai is a fully customizable AI.
+
+Everything can be changed from the dataset state.
 
 [GitHub](https://github.com/DiamondGotCat/Azuki.ai)
 
