@@ -4,6 +4,16 @@
 Hello! I am Cat!
 I speak japanese, I am not good at English.
 
+# My machine learning repository
+
+## Azuki.ai (Text Generation)
+Small, text generation AI
+[GitHub](https://github.com/DiamondGotCat/Azuki.ai)
+
+## Kabuka.ai (Prediction)
+Future stock price predictions
+[GitHub](https://github.com/DiamondGotCat/Kabuka.ai)
+
 # A proud project
 
 ## Tasks
