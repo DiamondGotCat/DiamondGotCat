@@ -4,6 +4,9 @@
 Hello! I am Cat!
 I speak japanese, I am not good at English.
 
+### My sleep time
+**22:00 ~ 8:00**
+
 # My machine learning repository
 
 ## Azuki.ai (Text Generation)
