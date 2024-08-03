@@ -8,10 +8,12 @@ I speak japanese, I am not good at English.
 
 ## Azuki.ai (Text Generation)
 Small, text generation AI
+
 [GitHub](https://github.com/DiamondGotCat/Azuki.ai)
 
 ## Kabuka.ai (Prediction)
 Future stock price predictions
+
 [GitHub](https://github.com/DiamondGotCat/Kabuka.ai)
 
 # A proud project
