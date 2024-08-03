@@ -7,7 +7,7 @@ I speak japanese, I am not good at English.
 # My machine learning repository
 
 ## Azuki.ai (Text Generation)
-Small, text generation AI
+A community-driven generative AI project
 
 [GitHub](https://github.com/DiamondGotCat/Azuki.ai)
 
