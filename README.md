@@ -1,57 +1,24 @@
 
 ![DiamondGotCat](https://github.com/user-attachments/assets/5ec20f7a-6bdc-4267-8737-1bc46beae0ab)
 
+### Introduction
+
 Hello! I am Cat!
+
 I speak japanese, I am not good at English.
 
 ### My sleep time
 **22:00 ~ 8:00**
 
-# My machine learning repository
+## (🌱) My Website
+| [Link](https://kamu.jp/) |
 
-## Azuki.ai (Text Generation)
-Azuki.ai is a fully customizable AI.
+## (⭐️) My Repositorys
 
-Everything can be changed from the dataset state.
+### Azuki.ai (Customizable Text Generation AI)
 
-[GitHub](https://github.com/DiamondGotCat/Azuki.ai)
+| [GitHub](https://github.com/DiamondGotCat/Azuki.ai) |
 
-## Kabuka.ai (Prediction)
-Future stock price predictions
+### Kabuka.ai (Prediction AI)
 
-[GitHub](https://github.com/DiamondGotCat/Kabuka.ai)
-
-# A proud project
-
-## Tasks
-Tasks is the ultimate app for managing your tasks.
-
-[Website](https://kamu.jp/tasks/)
-
-## Containers
-Containers is the ultimate app for managing your docker containers.
-
-[Website](https://kamu.jp/containers/)
-
-# A proud repository
-*I am Sleepy...*
-
-## Spaudio
-This project is a Python-based audio simulation tool that uses Pyroomacoustics and Pydub to create realistic room acoustics effects. It allows users to load an audio file, simulate the sound in a 3D room environment, and either save the processed audio to a file or play it back directly.
-
-[GitHub](https://github.com/DiamondGotCat/Spaudio)
-
-## Next-in-the Installer
-Simple Package Manager for Python.
-
-[GitHub](https://github.com/DiamondGotCat/NIT)
-
-## ModInstaller
-Minecraft Mod Installer for macOS
-
-[GitHub](https://github.com/DiamondGotCat/ModInstaller)
-
-# About Profile Picture
-
-- **??? ~ 2024-06-07 16:14 (UTC +09:00) :** It's AI art by Microsoft Designer AI
-- **2024-06-07 16:14 (UTC +09:00) ~ ??? :** Created with Adobe Illustrator
+| [GitHub](https://github.com/DiamondGotCat/Kabuka.ai) |
