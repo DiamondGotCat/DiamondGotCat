@@ -22,3 +22,7 @@ I speak japanese, I am not good at English.
 ### Kabuka.ai (Prediction AI)
 
 | [GitHub](https://github.com/DiamondGotCat/Kabuka.ai) |
+
+### Spaudio (Special Audio Simulator)
+
+| [GitHub](https://github.com/DiamondGotCat/Spaudio) |
