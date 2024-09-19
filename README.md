@@ -10,6 +10,10 @@ I speak japanese, I am not good at English.
 ### 💤 My sleep time
 **22:00 ~ 8:00**
 
+### Current profile photo
+This illustration has a command line (>_) motif.
+Created with Adobe Illustrator.
+
 ## (🌐) My Website
 | [Link](https://kamu.jp/) |
 
