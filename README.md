@@ -30,5 +30,4 @@ Created with Adobe Illustrator.
 
 ## (📖) My Efforts
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![Efforts](https://kam.cloudfree.jp/)
