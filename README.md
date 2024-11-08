@@ -30,4 +30,4 @@ Created with Adobe Illustrator.
 
 ## (📖) My Efforts
 
-![Efforts](https://kam.cloudfree.jp/)
+<iframe src="https://kam.cloudfree.jp/"/>
