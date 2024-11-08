@@ -30,4 +30,6 @@ Created with Adobe Illustrator.
 
 ## (📖) My Efforts
 
-[![My Efforts](https://kam.cloudfree.jp/)](https://kam.cloudfree.jp/)
+![Today](https://kam.cloudfree.jp/getToday.php)
+
+![This Month](https://kam.cloudfree.jp/getMonth.php)
