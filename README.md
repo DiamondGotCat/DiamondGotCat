@@ -1,6 +1,3 @@
-
-![Me-Opecity](https://github.com/user-attachments/assets/33f61f35-c811-4e6a-9696-8d7280d60e88)
-
 ### 🌱 Introduction
 
 Hello! I am Cat!
@@ -30,3 +27,8 @@ Created with Adobe Illustrator.
 ### Spaudio (Special Audio Simulator)
 
 | [GitHub](https://github.com/DiamondGotCat/Spaudio) |
+
+## (📖) My Efforts
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
