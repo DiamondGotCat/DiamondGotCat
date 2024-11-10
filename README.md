@@ -27,7 +27,3 @@ Created with Adobe Illustrator.
 ### Spaudio (Special Audio Simulator)
 
 | [GitHub](https://github.com/DiamondGotCat/Spaudio) |
-
-## (📖) My Efforts
-
-| [Link](https://kam.cloudfree.jp/track.html) |
