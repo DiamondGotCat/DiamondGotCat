@@ -16,6 +16,9 @@ Created with Adobe Illustrator.
 
 ## (⭐️) My Repositorys
 
+### Your Assitant
+| [GitHub](https://github.com/DiamondGotCat/Your-Assistant) |
+
 ### Azuki.ai (Customizable Text Generation AI)
 
 | [GitHub](https://github.com/DiamondGotCat/Azuki.ai) |
