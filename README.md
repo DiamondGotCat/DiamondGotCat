@@ -8,7 +8,6 @@ I speak japanese, I am not good at English.
 **22:00 ~ 8:00**
 
 ### 🙂 Current profile photo
-This illustration has a command line (>_) motif.
 Created with Adobe Illustrator.
 
 ## (🌐) My Website
@@ -30,3 +29,6 @@ Created with Adobe Illustrator.
 ### Spaudio (Special Audio Simulator)
 
 | [GitHub](https://github.com/DiamondGotCat/Spaudio) |
+
+### NewCode (My Custom base32 Converter)
+| [GitHub](https://github.com/DiamondGotCat/NewCode) | [Demo](https://kamu.jp/newcode/) |
