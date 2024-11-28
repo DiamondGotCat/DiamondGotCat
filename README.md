@@ -11,24 +11,29 @@ I speak japanese, I am not good at English.
 Created with Adobe Illustrator.
 
 ## (🌐) My Website
-| [Link](https://kamu.jp/) |
+| [Kamu.jp](https://kamu.jp/) |
+
+## (🧠) My GPTs
+
+### ThinkGPT (More Deeply Thinking...)
+| [View in ChatGPT.com](https://chatgpt.com/g/g-674146c392248191aeeb12205ddd6f28-thinkgpt) |
 
 ## (⭐️) My Repositorys
 
 ### Your Assitant (Let AI do)
-| [GitHub](https://github.com/DiamondGotCat/Your-Assistant) |
+| [GitHub.com](https://github.com/DiamondGotCat/Your-Assistant) |
 
 ### Azuki.ai (Customizable Text Generation AI)
 
-| [GitHub](https://github.com/DiamondGotCat/Azuki.ai) |
+| [GitHub.com](https://github.com/DiamondGotCat/Azuki.ai) |
 
 ### Kabuka.ai (Prediction AI)
 
-| [GitHub](https://github.com/DiamondGotCat/Kabuka.ai) |
+| [GitHub.com](https://github.com/DiamondGotCat/Kabuka.ai) |
 
 ### Spaudio (Special Audio Simulator)
 
-| [GitHub](https://github.com/DiamondGotCat/Spaudio) |
+| [GitHub.com](https://github.com/DiamondGotCat/Spaudio) |
 
 ### NewCode (My Custom base32 Converter)
-| [GitHub](https://github.com/DiamondGotCat/NewCode) | [Demo](https://kamu.jp/newcode/) |
+| [GitHub.com](https://github.com/DiamondGotCat/NewCode) | [Demo in Kamu.jp](https://kamu.jp/newcode/) |
