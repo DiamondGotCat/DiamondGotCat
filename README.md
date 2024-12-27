@@ -20,6 +20,10 @@ Created with Adobe Illustrator.
 
 ## (⭐️) My Repositorys
 
+### Hinode AI (Next Generation of Customizable Text Generation AI)
+
+| [GitHub.com](https://github.com/DiamondGotCat/Hinode-AI) |
+
 ### Your Assitant (Let AI do)
 | [GitHub.com](https://github.com/DiamondGotCat/Your-Assistant) |
 
