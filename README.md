@@ -15,6 +15,9 @@ Created with Adobe Illustrator.
 
 ## (🧠) My GPTs
 
+### NextGPT (Next Generation of GPT)
+| [ChatGPT.com](https://chatgpt.com/g/g-677d2f60445881918d02213e1321bc97-nextgpt) |
+
 ### ThinkGPT (More Deeply Thinking...)
 | [View in ChatGPT.com](https://chatgpt.com/g/g-674146c392248191aeeb12205ddd6f28-thinkgpt) |
 
