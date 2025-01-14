@@ -15,10 +15,10 @@ Created with Adobe Illustrator.
 
 ## (🧠) My GPTs
 
-### NextGPT (Next Generation of GPT)
+### NextGPT - If GPT-4o can... Reasoning?
 | [ChatGPT.com](https://chatgpt.com/g/g-677d2f60445881918d02213e1321bc97-nextgpt) | [Example](https://chatgpt.com/share/677d35cc-4708-8013-950b-3ed5f0908abd) |
 
-### ThinkGPT (More Deeply Thinking...)
+### ThinkGPT - Preview of NextGPT
 | [View in ChatGPT.com](https://chatgpt.com/g/g-674146c392248191aeeb12205ddd6f28-thinkgpt) |
 
 ## (⭐️) My Repositorys
