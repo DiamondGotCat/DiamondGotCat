@@ -15,7 +15,7 @@ Created with Adobe Illustrator.
 
 ## (🧠) My GPTs
 
-### NextGPT - If GPT-4o can... Reasoning?
+### NextGPT - If GPT-4o can Reasoning
 | [ChatGPT.com](https://chatgpt.com/g/g-677d2f60445881918d02213e1321bc97-nextgpt) | [Example](https://chatgpt.com/share/677d35cc-4708-8013-950b-3ed5f0908abd) |
 
 ### ThinkGPT - Preview of NextGPT
