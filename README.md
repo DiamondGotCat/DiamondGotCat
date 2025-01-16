@@ -1,46 +1,29 @@
-### 🌱 Introduction
+# Hello! I'm DiamondGotCat.
 
-Hello! I am Cat!
+**Type:** `Cat`
 
-I speak japanese, I am not good at English.
+**Goal:** Joining `Apple`
 
-### 💤 My sleep time
-**22:00 ~ 8:00**
+**Interest:** `Apple` `AI` `LLM` `Linux` `Apple Silicon` `ARM`
 
-### 🙂 Current profile photo
-Created with Adobe Illustrator.
+**Skill:** `HTML` `Python` `Transformers` `Swift/SwiftUI` `PHP`
 
-## (🌐) My Website
-| [Kamu.jp](https://kamu.jp/) |
+**Blog:** [kamu](https://kamu.jp/) or `https://kamu.jp/`
 
-## (🧠) My GPTs
+## Projects
 
-### NextGPT - If GPT-4o can Reasoning
-| [ChatGPT.com](https://chatgpt.com/g/g-677d2f60445881918d02213e1321bc97-nextgpt) | [Example](https://chatgpt.com/share/677d35cc-4708-8013-950b-3ed5f0908abd) |
+### Hinode AI
 
-### ThinkGPT - Preview of NextGPT
-| [View in ChatGPT.com](https://chatgpt.com/g/g-674146c392248191aeeb12205ddd6f28-thinkgpt) |
+**Type:** `LLM`
 
-## (⭐️) My Repositorys
+**Tag:** `Python` `Transformers`
 
-### Hinode AI (Next Generation of Customizable Text Generation AI)
+**Repo:** [github](https://github.com/DiamondGotCat/Hinode-AI) or `https://github.com/DiamondGotCat/Hinode-AI`
 
-| [GitHub.com](https://github.com/DiamondGotCat/Hinode-AI) |
+### Azuki AI
 
-### Your Assitant (Let AI do)
-| [GitHub.com](https://github.com/DiamondGotCat/Your-Assistant) |
+**Type:** `LLM`
 
-### Azuki.ai (Customizable Text Generation AI)
+**Tag:** `Python` `Transformers`
 
-| [GitHub.com](https://github.com/DiamondGotCat/Azuki.ai) |
-
-### Kabuka.ai (Prediction AI)
-
-| [GitHub.com](https://github.com/DiamondGotCat/Kabuka.ai) |
-
-### Spaudio (Special Audio Simulator)
-
-| [GitHub.com](https://github.com/DiamondGotCat/Spaudio) |
-
-### NewCode (My Custom base32 Converter)
-| [GitHub.com](https://github.com/DiamondGotCat/NewCode) | [Demo in Kamu.jp](https://kamu.jp/newcode/) |
+**Repo:** [github](https://github.com/DiamondGotCat/Azuki.ai) or `https://github.com/DiamondGotCat/Azuki.ai`
