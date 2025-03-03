@@ -12,18 +12,10 @@
 
 ## Projects
 
-### Hinode AI
+### Zeta
 
 **Type:** `LLM`
 
 **Tag:** `Python` `Transformers`
 
-**Repo:** [github](https://github.com/DiamondGotCat/Hinode-AI) or `https://github.com/DiamondGotCat/Hinode-AI`
-
-### Azuki AI
-
-**Type:** `LLM`
-
-**Tag:** `Python` `Transformers`
-
-**Repo:** [github](https://github.com/DiamondGotCat/Azuki.ai) or `https://github.com/DiamondGotCat/Azuki.ai`
+**Repo:** [github](https://github.com/DiamondGotCat/Zeta) or `https://github.com/DiamondGotCat/Zeta`
