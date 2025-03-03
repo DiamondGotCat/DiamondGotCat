@@ -19,3 +19,11 @@
 **Tag:** `Python` `Transformers`
 
 **Repo:** [github](https://github.com/DiamondGotCat/Zeta) or `https://github.com/DiamondGotCat/Zeta`
+
+### AgentGPT
+
+**Type:** `LLM` `Agent`
+
+**Tag:** `Python` `OpenAI API`
+
+**Repo:** [github](https://github.com/DiamondGotCat/AgentGPT) or `https://github.com/DiamondGotCat/AgentGPT`
