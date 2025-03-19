@@ -20,10 +20,10 @@
 
 **Repo:** [github](https://github.com/DiamondGotCat/Zeta) or `https://github.com/DiamondGotCat/Zeta`
 
-### AgentGPT
+### VirtualCUBE
 
-**Type:** `LLM` `Agent`
+**Type:** `Virtual Machine` `macOS Application`
 
-**Tag:** `Python` `OpenAI API`
+**Tag:** `Swift` `Virtualization.framework`
 
-**Repo:** [github](https://github.com/DiamondGotCat/AgentGPT) or `https://github.com/DiamondGotCat/AgentGPT`
+**Repo:** [github](https://github.com/DiamondGotCat/VirtualCUBE) or `https://github.com/DiamondGotCat/VirtualCUBE`
