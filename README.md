@@ -8,7 +8,7 @@
 
 **Skill:** `HTML` `Python` `Transformers` `Swift/SwiftUI` `PHP`
 
-**Blog:** [kamu](https://kamu.jp/) or `https://kamu.jp/`
+**Website(日本語・Japanese):** [kamu](https://kamu.jp/) or `https://kamu.jp/`
 
 ## Projects
 
