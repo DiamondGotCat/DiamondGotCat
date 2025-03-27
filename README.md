@@ -8,7 +8,9 @@
 
 **Skill:** `HTML` `Python` `Transformers` `Swift/SwiftUI` `PHP`
 
-**Website:** [kamu](https://kamu.jp/) or `https://kamu.jp/`
+**Website:** [diamondgotcat](https://diamondgotcat.net/) or `https://kamu.jp/`
+
+**Mail:** [mailto](mailto:diamondgotcat@diamondgotcat.net) or `diamondgotcat@diamondgotcat.net`
 
 ## Projects
 
