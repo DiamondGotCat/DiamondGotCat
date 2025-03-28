@@ -4,7 +4,9 @@
 
 
 > show("My hobby is programming.")
+>
 > exec.py("print('When I get tired of programming, I program during my break.')")
+> 
 > ーDiamondGotCat (Cat)
 
 # Hello! I'm DiamondGotCat.
