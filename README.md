@@ -2,6 +2,11 @@
   <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="160"/>
 </p>
 
+
+> show("My hobby is programming.")
+> exec.py("print('When I get tired of programming, I program during my break.')")
+> ーDiamondGotCat (Cat)
+
 # Hello! I'm DiamondGotCat.
 
 **Type:** `Cat`
