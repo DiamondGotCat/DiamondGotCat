@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="160"/>
+</p>
+
 # Hello! I'm DiamondGotCat.
 
 **Type:** `Cat`
