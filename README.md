@@ -21,6 +21,8 @@ https://github.com/user-attachments/assets/2e6fb095-67a1-4e5e-8843-81ad8516cb94
 
 **Mail:** [mailto](mailto:diamondgotcat@diamondgotcat.net) or `diamondgotcat@diamondgotcat.net`
 
+**Status Page:** [kamu](https://kamu.jp) or `https://kamu.jp/`
+
 ## Projects
 
 ### Zeta
