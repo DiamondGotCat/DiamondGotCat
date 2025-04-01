@@ -7,12 +7,6 @@ https://github.com/user-attachments/assets/2e6fb095-67a1-4e5e-8843-81ad8516cb94
 </p>
 -->
 
-> show("My hobby is programming.")
->
-> exec.py("print('When I get tired of programming, I program during my break.')")
-> 
-> ーDiamondGotCat (Cat)
-
 # Hello! I'm DiamondGotCat.
 
 **Type:** `Cat`
