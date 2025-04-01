@@ -1,7 +1,5 @@
-<video width="320" height="240" controls>
-  <source src="https://github.com/DiamondGotCat/DiamondGotCat/raw/refs/heads/main/About%20Me%20720p.mov" type="video/mov">
-Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/2e6fb095-67a1-4e5e-8843-81ad8516cb94
 
 <!--
 <p align="center">
