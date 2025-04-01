@@ -1,7 +1,13 @@
+<video width="320" height="240" controls>
+  <source src="https://github.com/DiamondGotCat/DiamondGotCat/raw/refs/heads/main/About%20Me%20720p.mov" type="video/mov">
+Your browser does not support the video tag.
+</video>
+
+<!--
 <p align="center">
   <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="160"/>
 </p>
-
+-->
 
 > show("My hobby is programming.")
 >
