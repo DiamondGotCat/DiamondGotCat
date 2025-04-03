@@ -23,6 +23,10 @@ https://github.com/user-attachments/assets/2e6fb095-67a1-4e5e-8843-81ad8516cb94
 
 **Status Page:** [kamu](https://kamu.jp) or `https://kamu.jp/`
 
+## About Profile Icon
+The previous profile icon file name was "DGCX".
+The new file name, "DiamondGotCat 11", was inspired by Apple's macOS 10 -> 11.
+
 ## Projects
 
 ### Zeta
