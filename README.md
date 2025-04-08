@@ -1,5 +1,5 @@
 
-https://github.com/user-attachments/assets/2e6fb095-67a1-4e5e-8843-81ad8516cb94
+![DiamondGotCat-12-Full_1024](https://github.com/user-attachments/assets/4af8501b-de1c-4af6-8b63-c9e58a6e4a3e)
 
 <!--
 <p align="center">
