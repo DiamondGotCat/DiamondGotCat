@@ -1,5 +1,5 @@
 
-![DiamondGotCat-12](https://kamu.jp/icons/DiamondGotCat-12-Full_SVG.svg)
+![DiamondGotCat-12](https://kamu.jp/icons/DiamondGotCat-12-Full_1024.png)
 
 # Hello! I'm DiamondGotCat.
 
