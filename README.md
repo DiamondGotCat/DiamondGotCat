@@ -13,26 +13,6 @@
 
 **Website:** [diamondgotcat](https://diamondgotcat.net/) or `https://diamondgotcat.net/`
 
-**Icon/Brand Downloads:** [diamondgotcat](https://diamondgotcat.net/icons/) or `https://diamondgotcat.net/icons/`
-
-**Mail:** [mailto](mailto:diamondgotcat@google.com) or `diamondgotcat@google.com`
+**Mail:** [mailto](mailto:diamondgotcat@gmail.com) or `diamondgotcat@gmail.com`
 
 **Status Page:** [kamu](https://kamu.jp) or `https://kamu.jp/`
-
-## Projects
-
-### Zeta
-
-**Type:** `LLM`
-
-**Tag:** `Python` `Transformers`
-
-**Repo:** [github](https://github.com/DiamondGotCat/Zeta) or `https://github.com/DiamondGotCat/Zeta`
-
-### VirtualCUBE
-
-**Type:** `Virtual Machine` `macOS Application`
-
-**Tag:** `Swift` `Virtualization.framework`
-
-**Repo:** [github](https://github.com/DiamondGotCat/VirtualCUBE) or `https://github.com/DiamondGotCat/VirtualCUBE`
