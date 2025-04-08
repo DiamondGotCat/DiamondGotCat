@@ -1,11 +1,5 @@
 
-![DiamondGotCat-12-Full_1024](https://github.com/user-attachments/assets/4af8501b-de1c-4af6-8b63-c9e58a6e4a3e)
-
-<!--
-<p align="center">
-  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="160"/>
-</p>
--->
+![DiamondGotCat-12](https://kamu.jp/icons/DiamondGotCat-12-Full_SVG.svg)
 
 # Hello! I'm DiamondGotCat.
 
@@ -19,7 +13,9 @@
 
 **Website:** [diamondgotcat](https://diamondgotcat.net/) or `https://diamondgotcat.net/`
 
-**Mail:** [mailto](mailto:diamondgotcat@diamondgotcat.net) or `diamondgotcat@diamondgotcat.net`
+**Icon/Brand Downloads:** [diamondgotcat](https://diamondgotcat.net/icons/) or `https://diamondgotcat.net/icons/`
+
+**Mail:** [mailto](mailto:diamondgotcat@google.com) or `diamondgotcat@google.com`
 
 **Status Page:** [kamu](https://kamu.jp) or `https://kamu.jp/`
 
