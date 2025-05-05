@@ -3,7 +3,7 @@
 
 # Hello! I'm DiamondGotCat.
 
-**Type:** `Cat`
+**Type:** `Cat` `Japanese People`
 
 **Goal:** Joining `Apple`
 
