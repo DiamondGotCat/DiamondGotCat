@@ -1,5 +1,5 @@
 
-![DiamondGotCat-12-Full_1024](https://github.com/user-attachments/assets/af1afac9-50d7-400f-9d06-e4bdd6958b0e)
+![DiamondGotCat 15 Wall](https://github.com/user-attachments/assets/519e4f21-6474-42a1-bf5b-0a03db9dd60c)
 
 # Hello! I'm DiamondGotCat.
 
