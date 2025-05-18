@@ -1,5 +1,4 @@
-
-![DiamondGotCat 15 Wall](https://github.com/user-attachments/assets/519e4f21-6474-42a1-bf5b-0a03db9dd60c)
+![Profile Icon Full](https://github.com/user-attachments/assets/2fb22b2f-ff68-458d-ad84-e1ddb900bc34)
 
 # Hello! I'm DiamondGotCat.
 
