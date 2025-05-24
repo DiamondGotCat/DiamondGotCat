@@ -1,4 +1,4 @@
-![DiamondGotCat 20 Wall](https://github.com/user-attachments/assets/aa3cc1a8-38ae-40dc-8d20-987739a0aefd)
+![wall-2_v20-1](https://github.com/user-attachments/assets/17e23d26-ed9e-434a-88a3-ac4189bf1d6a)
 
 # Hello! I'm DiamondGotCat.
 
