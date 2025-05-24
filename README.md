@@ -17,9 +17,9 @@
 **Status Page:** [https](https://kamu.jp/) or `https://kamu.jp/`
 
 ## SNS
-**Twitter(Main,EN,JP):** [https](https://x.com/DiamondGotCat/) or `https://x.com/DiamondGotCat/`
+**Twitter, formerly X(Main,EN,JP):** [https](https://x.com/DiamondGotCat/) or `https://x.com/DiamondGotCat/`
 
-**Twitter(Sub,JP):** [https](https://x.com/DiamondGotCat2/) or `https://x.com/DiamondGotCat2/`
+**Twitter, formerly X(Sub,JP):** [https](https://x.com/DiamondGotCat2/) or `https://x.com/DiamondGotCat2/`
 
 **Zenn(Main,JP):** [https](https://zenn.dev/techcat56/) or `https://zenn.dev/techcat56/`
 
