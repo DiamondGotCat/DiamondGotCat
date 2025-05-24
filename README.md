@@ -1,8 +1,9 @@
-![DiamondGotCat Thumbnail](https://github.com/user-attachments/assets/47af90f5-1483-4361-835b-ebcbc56ac879)
+![DiamondGotCat 20 Wall](https://github.com/user-attachments/assets/aa3cc1a8-38ae-40dc-8d20-987739a0aefd)
 
 # Hello! I'm DiamondGotCat.
 
 **Type:** `Cat` `Japanese People`
+
 
 **Goal:** Joining `Apple`
 
