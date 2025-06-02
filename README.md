@@ -26,6 +26,6 @@
 **Qiita(Main,JP):** [https](https://qiita.com/DiamondGotCat/) or `https://qiita.com/DiamondGotCat/`
 
 ## Mail
-**Mail(Main):** [mailto](mailto:diamondgotcat@gmail.com) or `diamondgotcat@gmail.com`
+**Mail(Main):** [mailto](mailto:main@diamondgotcat.net) or `main@diamondgotcat.net`
 
-**Mail(Sub):** [mailto](mailto:main@diamondgotcat.net) or `main@diamondgotcat.net`
+**Mail(Sub):** [mailto](mailto:diamondgotcat@gmail.com) or `diamondgotcat@gmail.com`
