@@ -12,9 +12,27 @@
 **Skill:** `HTML` `Python` `Transformers` `Swift/SwiftUI` `PHP`
 
 ## Website
-**Website:** [https](https://diamondgotcat.net/) or `https://diamondgotcat.net/`
+**Blog:** [https](https://diamondgotcat.net/) or `https://diamondgotcat.net/`
 
-**Status Page:** [https](https://kamu.jp/) or `https://kamu.jp/`
+**Status Page (Old):** [https](https://kamu.jp/) or `https://kamu.jp/`
+
+## Repos
+I still can't believe I created these repositories.
+
+### [YPSH (formerly Pylo)](https://github.com/DiamondGotCat/YPSH/)
+**A programming language with a simple and intuitive syntax**
+
+(Written on Python)
+
+### [Zeta LLM](https://github.com/Zeta-DGC/Zeta-LLM/)
+**Fully Open-source LLM**
+
+(I made it)
+
+### [DGC-DNS](https://github.com/DiamondGotCat/DGC-DNS/)
+**A Practical and Lightweight Open-Source DNS Server**
+
+(Of course, MIT license)
 
 ## SNS
 **Twitter, formerly X(Main,EN,JP):** [https](https://x.com/DiamondGotCat/) or `https://x.com/DiamondGotCat/`
