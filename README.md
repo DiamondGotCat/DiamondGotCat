@@ -4,7 +4,6 @@
 
 **Type:** `Cat` `Japanese People`
 
-
 **Goal:** Joining `Apple`
 
 **Interest:** `Apple` `AI` `LLM` `Linux` `Apple Silicon` `ARM`
@@ -12,9 +11,9 @@
 **Skill:** `HTML` `Python` `Transformers` `Swift/SwiftUI` `PHP`
 
 ## Website
-**Blog:** [https](https://diamondgotcat.net/) or `https://diamondgotcat.net/`
+**Website (1):** [https](https://d-g-c.net/) or `https://d-g-c.net/`
 
-**Status Page (Old):** [https](https://kamu.jp/) or `https://kamu.jp/`
+**Website (2):** [https](https://diamondgotcat.net/) or `https://diamondgotcat.net/`
 
 ## Repos
 I still can't believe I created these repositories.
