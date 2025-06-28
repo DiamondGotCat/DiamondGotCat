@@ -1,4 +1,5 @@
-![DiamondGotCat Thumbnail](https://github.com/user-attachments/assets/34f032bc-529a-48cd-af63-bb76455738b8)
+
+![DiamondGotCat Profile Header](https://github.com/user-attachments/assets/c43a9b25-d885-497f-8d9f-c754108ebf61)
 
 # Hello! I'm DiamondGotCat.
 
