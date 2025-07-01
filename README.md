@@ -11,6 +11,15 @@
 
 **Skill:** `HTML` `Python` `Transformers` `Swift/SwiftUI` `PHP`
 
+## Repos
+I still can't believe I created these repositories.
+
+### [YPSH (formerly Pylo)](https://github.com/DiamondGotCat/YPSH/)
+**A programming language with a simple and intuitive syntax** (Written on Python)
+
+### [Zeta LLM](https://github.com/Zeta-DGC/Zeta-LLM/)
+**Fully Open-source LLM** (I made it)
+
 ## Websites
 - **Homepage 1** [https](https://d-g-c.net/) or `https://d-g-c.net/`
 - **Homepage 2** [https](https://diamondgotcat.net/) or `https://diamondgotcat.net/`
@@ -30,16 +39,3 @@
 ## Mail
 - **Mail(Main)** [mailto](mailto:main@diamondgotcat.net) or `main@diamondgotcat.net`
 - **Mail(Sub)** [mailto](mailto:diamondgotcat@gmail.com) or `diamondgotcat@gmail.com`
-
-## Repos
-I still can't believe I created these repositories.
-
-### [YPSH (formerly Pylo)](https://github.com/DiamondGotCat/YPSH/)
-**A programming language with a simple and intuitive syntax**
-
-(Written on Python)
-
-### [Zeta LLM](https://github.com/Zeta-DGC/Zeta-LLM/)
-**Fully Open-source LLM**
-
-(I made it)
