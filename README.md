@@ -11,10 +11,15 @@
 
 **Skill:** `HTML` `Python` `Transformers` `Swift/SwiftUI` `PHP`
 
-## Website
-**Website (1):** [https](https://d-g-c.net/) or `https://d-g-c.net/`
+## Websites
+- **Homepage 1** [https](https://d-g-c.net/) or `https://d-g-c.net/`
+- **Homepage 2** [https](https://diamondgotcat.net/) or `https://diamondgotcat.net/`
+- **Blog (There are still few posts)** [https](https://blog.diamondgotcat.net/) or `https://blog.diamondgotcat.net/`
 
-**Website (2):** [https](https://diamondgotcat.net/) or `https://diamondgotcat.net/`
+## Domains
+- **d-g-c.net** `New` `Using`
+- **diamondgotcat.net** `Using`
+- **kamu.jp** `Old` `Not Using`
 
 ## Repos
 I still can't believe I created these repositories.
@@ -35,15 +40,11 @@ I still can't believe I created these repositories.
 (Of course, MIT license)
 
 ## SNS
-**Twitter, formerly X(Main,EN,JP):** [https](https://x.com/DiamondGotCat/) or `https://x.com/DiamondGotCat/`
-
-**Twitter, formerly X(Sub,JP):** [https](https://x.com/DiamondGotCat2/) or `https://x.com/DiamondGotCat2/`
-
-**Zenn(Main,JP):** [https](https://zenn.dev/techcat56/) or `https://zenn.dev/techcat56/`
-
-**Qiita(Main,JP):** [https](https://qiita.com/DiamondGotCat/) or `https://qiita.com/DiamondGotCat/`
+- **Twitter, formerly X(Main,EN,JA)** [https](https://x.com/DiamondGotCat/) or `https://x.com/DiamondGotCat/`
+- **Twitter, formerly X(Sub,JA)** [https](https://x.com/DiamondGotCat2/) or `https://x.com/DiamondGotCat2/`
+- **Zenn(Main,JA)** [https](https://zenn.dev/techcat56/) or `https://zenn.dev/techcat56/`
+- **Qiita(Main,JA)** [https](https://qiita.com/DiamondGotCat/) or `https://qiita.com/DiamondGotCat/`
 
 ## Mail
-**Mail(Main):** [mailto](mailto:main@diamondgotcat.net) or `main@diamondgotcat.net`
-
-**Mail(Sub):** [mailto](mailto:diamondgotcat@gmail.com) or `diamondgotcat@gmail.com`
+- **Mail(Main)** [mailto](mailto:main@diamondgotcat.net) or `main@diamondgotcat.net`
+- **Mail(Sub)** [mailto](mailto:diamondgotcat@gmail.com) or `diamondgotcat@gmail.com`
