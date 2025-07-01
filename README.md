@@ -1,5 +1,5 @@
 
-![Icon-v22-Full-Rounded](https://github.com/user-attachments/assets/c070ae3f-a741-49b6-a926-b4ae799ee065)
+![Icon-v22-Full-Rounded](https://github.com/user-attachments/assets/522273fc-4fb2-49c8-be94-b4f9b072aed6)
 
 # Hello! I'm DiamondGotCat.
 
