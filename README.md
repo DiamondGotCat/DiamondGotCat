@@ -1,6 +1,8 @@
 
 <img width="1920" height="1080" alt="DiamondGotCat Header Rounded" src="https://github.com/user-attachments/assets/0ccd9430-9df5-45c9-b138-fe89a7bfffee" />
 
+**DiamondGotCat Icons [v23](https://github.com/DiamondGotCat/DiamondGotCat/tree/main/v23)**
+
 # Hello! I'm DiamondGotCat.
 
 **Type:** `Cat` `Japanese People`
