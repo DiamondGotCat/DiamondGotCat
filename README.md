@@ -1,5 +1,5 @@
 
-<img width="1920" height="1080" alt="DiamondGotCat Header Rounded" src="https://github.com/user-attachments/assets/cd6e3d0a-986d-48e3-b7c8-7b2fc252c742" />
+<img width="1920" height="1080" alt="DiamondGotCat Header Rounded" src="https://github.com/user-attachments/assets/0ccd9430-9df5-45c9-b138-fe89a7bfffee" />
 
 # Hello! I'm DiamondGotCat.
 
