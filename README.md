@@ -14,13 +14,12 @@
 **Skill:** `HTML` `Python` `Transformers` `Swift/SwiftUI` `PHP`
 
 ## Repos
-I still can't believe I created these repositories.
 
-### [YPSH (formerly Pylo)](https://github.com/DiamondGotCat/YPSH/)
-**A programming language with a simple and intuitive syntax** (Written on Python)
+### [YPSH Language](https://github.com/YPSH-DGC/YPSH/)
+**A programming language with a simple and intuitive syntax**
 
 ### [Zeta LLM](https://github.com/Zeta-DGC/Zeta-LLM/)
-**Fully Open-source LLM** (I made it)
+**Fully Open-source LLM**
 
 ## Websites
 - **Homepage 1** [https](https://d-g-c.net/) or `https://d-g-c.net/`
