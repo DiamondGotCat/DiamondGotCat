@@ -1,7 +1,7 @@
 
 <img width="1920" height="1080" alt="DiamondGotCat Header" src="https://github.com/user-attachments/assets/289b2fee-4e03-43ac-87d0-570b83a6e93b" />
 
-**DiamondGotCat Icons [v24](https://github.com/DiamondGotCat/DiamondGotCat/tree/main/v24)**
+**DiamondGotCat Design Assets [v24](https://github.com/DiamondGotCat/design-assets/releases/)**
 
 # Hello! I'm DiamondGotCat.
 
