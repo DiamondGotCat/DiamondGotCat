@@ -40,3 +40,5 @@
 ## Mail
 - **Mail(Main)** [mailto](mailto:main@diamondgotcat.net) or `main@diamondgotcat.net`
 - **Mail(Sub)** [mailto](mailto:diamondgotcat@gmail.com) or `diamondgotcat@gmail.com`
+- **Mail(Yaju[^1])** [mailto](mailto:diamondgotcat@yajuusenp.ai) or `diamondgotcat@yajuusenp.ai`
+[^1]: With the cooperation of the domain owner, emails are automatically forwarded to the main email address.
