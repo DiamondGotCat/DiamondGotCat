@@ -31,13 +31,15 @@
 - **diamondgotcat.net** `Using`
 - **kamu.jp** `Old` `Not Using`
 
-## SNS
+## Contact
+
+### SNS
 - **Twitter, formerly X(Main,EN,JA)** [https](https://x.com/DiamondGotCat/) or `https://x.com/DiamondGotCat/`
 - **Twitter, formerly X(Sub,JA)** [https](https://x.com/DiamondGotCat2/) or `https://x.com/DiamondGotCat2/`
 - **Zenn(Main,JA)** [https](https://zenn.dev/techcat56/) or `https://zenn.dev/techcat56/`
 - **Qiita(Main,JA)** [https](https://qiita.com/DiamondGotCat/) or `https://qiita.com/DiamondGotCat/`
 
-## Mail
+### Mail
 - **Mail(Main)** [mailto](mailto:main@diamondgotcat.net) or `main@diamondgotcat.net`
 - **Mail(Sub)** [mailto](mailto:diamondgotcat@gmail.com) or `diamondgotcat@gmail.com`
 - **Mail(Yaju[^1])** [mailto](mailto:diamondgotcat@yajuusenp.ai) or `diamondgotcat@yajuusenp.ai`
