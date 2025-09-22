@@ -1,7 +1,7 @@
 
 <img width="1920" height="1080" alt="DiamondGotCat Logo from 2025-09-22" src="https://github.com/user-attachments/assets/a0981301-8475-4402-accb-2cab53a22637" />
 
-**DiamondGotCat Design Assets [v24](https://github.com/DiamondGotCat/design-assets/releases/)**
+**DiamondGotCat Design Assets [v25](https://github.com/DiamondGotCat/design-assets/releases/)**
 
 # Hello! I'm DiamondGotCat.
 
