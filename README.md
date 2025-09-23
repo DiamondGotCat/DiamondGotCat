@@ -3,7 +3,7 @@
 
 **DiamondGotCat Design Assets [v25](https://github.com/DiamondGotCat/design-assets/releases/)**
 
-# Hello! I'm DiamondGotCat.
+# Hello! I'm Nercone.
 
 **Type:** `Cat` `Japanese People`
 
