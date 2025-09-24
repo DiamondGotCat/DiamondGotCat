@@ -1,9 +1,8 @@
 
-<img width="1920" height="1080" alt="DiamondGotCat Logo from 2025-09-22" src="https://github.com/user-attachments/assets/a0981301-8475-4402-accb-2cab53a22637" />
+<img width="1920" alt="DiamondGotCat Logo from 2025-09-22" src="https://github.com/user-attachments/assets/a0981301-8475-4402-accb-2cab53a22637" />
 
-**DiamondGotCat Design Assets [v25](https://github.com/DiamondGotCat/design-assets/releases/)**
-
-# Hello! I'm Nercone.
+# Nercone
+formerly DiamondGotCat
 
 **Type:** `Cat` `Japanese People`
 
@@ -33,6 +32,10 @@
 
 ## Contact
 
+> [!CAUTION]
+> `main@diamondgotcat.net` will no longer be used.
+> Please use `nercon@diamondgotcat.net` instead.
+
 ### SNS
 - **Twitter, formerly X(Main,EN,JA)** [https](https://x.com/DiamondGotCat/) or `https://x.com/DiamondGotCat/`
 - **Twitter, formerly X(Sub,JA)** [https](https://x.com/DiamondGotCat2/) or `https://x.com/DiamondGotCat2/`
@@ -40,7 +43,7 @@
 - **Qiita(Main,JA)** [https](https://qiita.com/DiamondGotCat/) or `https://qiita.com/DiamondGotCat/`
 
 ### Mail
-- **Mail(Main)** [mailto](mailto:main@diamondgotcat.net) or `main@diamondgotcat.net`
+- **Mail(Main)** [mailto](mailto:main@diamondgotcat.net) or `nercon@diamondgotcat.net`
 - **Mail(Sub)** [mailto](mailto:diamondgotcat@gmail.com) or `diamondgotcat@gmail.com`
 - **Mail(Yaju[^1])** [mailto](mailto:diamondgotcat@yajuusenp.ai) or `diamondgotcat@yajuusenp.ai`
 [^1]: With the cooperation of the domain owner, emails are automatically forwarded to the main email address.
