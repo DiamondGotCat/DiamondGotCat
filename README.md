@@ -1,7 +1,6 @@
 
 <img width="1920" alt="DiamondGotCat Logo from 2025-09-22" src="https://github.com/user-attachments/assets/a0981301-8475-4402-accb-2cab53a22637" />
 
-# Nercone
 formerly DiamondGotCat
 
 **Type:** `Cat` `Japanese People`
@@ -26,8 +25,8 @@ formerly DiamondGotCat
 - **Blog (There are still few posts)** [https](https://blog.diamondgotcat.net/) or `https://blog.diamondgotcat.net/`
 
 ## Domains
-- **d-g-c.net** `New` `Using`
-- **diamondgotcat.net** `Using`
+- **d-g-c.net** `New` `Short` `Using`
+- **diamondgotcat.net** `Long` `Using`
 - **kamu.jp** `Old` `Not Using`
 
 ## Contact
