@@ -31,7 +31,7 @@
 
 > [!CAUTION]
 > `main@diamondgotcat.net` will no longer be used.
-> Please use `nercon@diamondgotcat.net` instead.
+> Please use `nercone@diamondgotcat.net` instead.
 
 ### SNS
 - **Twitter, formerly X(Main,EN,JA)** [https](https://x.com/DiamondGotCat/) or `https://x.com/DiamondGotCat/`
@@ -40,7 +40,7 @@
 - **Qiita(Main,JA)** [https](https://qiita.com/DiamondGotCat/) or `https://qiita.com/DiamondGotCat/`
 
 ### Mail
-- **Mail(Main)** [mailto](mailto:nercon@diamondgotcat.net) or `nercon@diamondgotcat.net`
+- **Mail(Main)** [mailto](mailto:nercone@diamondgotcat.net) or `nercone@diamondgotcat.net`
 - **Mail(Sub)** [mailto](mailto:diamondgotcat@gmail.com) or `diamondgotcat@gmail.com`
 - **Mail(Yaju[^1])** [mailto](mailto:diamondgotcat@yajuusenp.ai) or `diamondgotcat@yajuusenp.ai`
 [^1]: With the cooperation of the domain owner, emails are automatically forwarded to the main email address.
