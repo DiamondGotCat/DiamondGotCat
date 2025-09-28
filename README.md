@@ -1,6 +1,7 @@
 
 <img width="1920" alt="DiamondGotCat Logo from 2025-09-22" src="https://github.com/user-attachments/assets/a0981301-8475-4402-accb-2cab53a22637" />
-<br>
+
+---
 
 **Type:** `Cat` `Japanese People`
 
