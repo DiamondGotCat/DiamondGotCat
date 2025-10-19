@@ -1,5 +1,5 @@
 
-<img width="1920" alt="DiamondGotCat Logo from 2025-09-22" src="https://github.com/user-attachments/assets/a0981301-8475-4402-accb-2cab53a22637" />
+<img width="1920" height="1080" alt="Nercone Header Black v26" src="https://github.com/user-attachments/assets/ce6f4416-0ecd-402a-8ea3-9ebed4e866f3" />
 
 ---
 
