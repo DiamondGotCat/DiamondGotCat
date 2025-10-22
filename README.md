@@ -1,6 +1,8 @@
 
 <img width="1920" alt="Nercone Header VSCode v26" src="https://github.com/user-attachments/assets/cb3aeb48-1d25-4b9f-8723-23ba2f943e21" />
 
+**The artwork can be found here:** [Nercone Artworks](https://github.com/DiamondGotCat/artworks/releases)
+
 ---
 
 **Type:** `Cat` `Japanese People`
