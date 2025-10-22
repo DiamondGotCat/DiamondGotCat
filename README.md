@@ -1,5 +1,5 @@
 
-<img width="1920" alt="Nercone Header VSCode v26" src="https://github.com/user-attachments/assets/ea9698a6-1aeb-4290-9c73-8c8fe39c5935" />
+<img width="1920" alt="Nercone Header VSCode v26" src="https://github.com/user-attachments/assets/cb3aeb48-1d25-4b9f-8723-23ba2f943e21" />
 
 ---
 
