@@ -1,50 +1,17 @@
 
-<img width="1920" alt="Nercone Header GitHub v26" src="https://github.com/user-attachments/assets/7d18ba23-bf10-4ffc-b173-afe97f841b89" />
+<img width="1920" alt="Nercone Header GitHub Low-Height v26" src="https://github.com/user-attachments/assets/a463a0e6-c74e-4441-baf9-3707b2c358b4" /> <br>
 
-> **The artwork can be found here:** [Nercone Artworks](https://github.com/DiamondGotCat/artworks/releases)
-
----
-
-**Type:** `Cat` `Japanese People`
-
-**Goal:** Joining `Apple`
-
-**Interest:** `Apple` `AI` `LLM` `Linux` `Apple Silicon` `ARM`
-
-**Skill:** `Python` `Swift/SwiftUI` `HTML` `PHP` `Transformers`
+**Type:** `Cat` `Japanese People` <br>
+**Goal:** Joining `Apple` <br>
+**Interest:** `Apple` `AI` `LLM` `Linux` `Apple Silicon` `ARM` <br>
+**Skill:** `Python` `Swift/SwiftUI` `HTML` `PHP` `Transformers` <br>
+**Links:** [d-g-c.net](https://www.d-g-c.net/) [twitter.com](https://twitter.com/DiamondGotCat/) [zenn.dev](https://zenn.dev/techcat56/) [qiita.com](https://qiita.com/Nercone/) <br>
+**Email:** [gmail.com (recommended)](mailto:diamondgotcat@gmail.com) [diamondgotcat.net](mailto:nercone@diamondgotcat.net) [yajuusenp.ai](mailto:diamondgotcat@yajuusenp.ai)
 
 ## Repos
-
-### [YPSH Language](https://github.com/YPSH-DGC/YPSH/)
-**A programming language with a simple and intuitive syntax**
-
-### [Zeta LLM](https://github.com/Zeta-DGC/Zeta-LLM/)
-**Fully Open-source LLM**
-
-## Websites
-- **Homepage 1** [https](https://d-g-c.net/) or `https://d-g-c.net/`
-- **Homepage 2** [https](https://diamondgotcat.net/) or `https://diamondgotcat.net/`
-- **Blog (There are still few posts)** [https](https://blog.diamondgotcat.net/) or `https://blog.diamondgotcat.net/`
-
-## Domains
-- **d-g-c.net** `New` `Short` `Using`
-- **diamondgotcat.net** `Long` `Using`
-- **kamu.jp** `Old` `Not Using`
-
-## Contact
-
-> [!CAUTION]
-> `main@diamondgotcat.net` will no longer be used.
-> Please use `nercone@diamondgotcat.net` instead.
-
-### SNS
-- **Twitter, formerly X(Main,EN,JA)** [https](https://x.com/DiamondGotCat/) or `https://x.com/DiamondGotCat/`
-- **Twitter, formerly X(Sub,JA)** [https](https://x.com/DiamondGotCat2/) or `https://x.com/DiamondGotCat2/`
-- **Zenn(Main,JA)** [https](https://zenn.dev/techcat56/) or `https://zenn.dev/techcat56/`
-- **Qiita(Main,JA)** [https](https://qiita.com/DiamondGotCat/) or `https://qiita.com/DiamondGotCat/`
-
-### Mail
-- **Mail(Main)** [mailto](mailto:nercone@diamondgotcat.net) or `nercone@diamondgotcat.net`
-- **Mail(Sub)** [mailto](mailto:diamondgotcat@gmail.com) or `diamondgotcat@gmail.com`
-- **Mail(Yaju[^1])** [mailto](mailto:diamondgotcat@yajuusenp.ai) or `diamondgotcat@yajuusenp.ai`
-[^1]: With the cooperation of the domain owner, emails are automatically forwarded to the main email address.
+- **[PyYPSH / YPSH Language](https://github.com/YPSH-DGC/YPSH/)** A programming language with a simple and intuitive syntax
+- **[Zeta LLM](https://github.com/Zeta-DGC/Zeta-LLM/)** Fully Open-source LLM
+- **[NextDrop / NextDP (NextDrop Protocol)](https://github.com/DiamondGotCat/NextDrop/)** High-speed File Transfer Protocol
+- **[FastGet](https://github.com/DiamondGotCat/FastGet/)** High-speed File Downloading Tool
+- **[allowdynamic](https://github.com/DiamondGotCat/allowdynamic/)** Dynamic, callable-backed array-like access with optional caching for Python
+- **[Spaudio](https://github.com/DiamondGotCat/Spaudio/)** Spatial Audio Simulation Tool
