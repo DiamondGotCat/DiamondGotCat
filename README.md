@@ -1,23 +1,42 @@
 
-<img width="1920" alt="Nercone Header GitHub Low-Height v26" src="https://github.com/user-attachments/assets/a463a0e6-c74e-4441-baf9-3707b2c358b4" /> <br>
+<img width="1920" src="https://github.com/user-attachments/assets/670e9bcc-dc21-4a47-8c3a-2c6ec2ccff57" />
 
-**Type:** `Cat` `Japanese People` <br>
-**Goal:** Joining `Apple` <br>
-**Interest:** `Apple` `AI` `LLM` `Linux` `Apple Silicon` `ARM` <br>
-**Skill:** `Python` `Swift/SwiftUI` `HTML` `PHP` `Transformers` <br>
-**Links:** [d-g-c.net](https://www.d-g-c.net/) [twitter.com](https://twitter.com/DiamondGotCat/) [zenn.dev](https://zenn.dev/techcat56/) [qiita.com](https://qiita.com/Nercone/) <br>
-**Email:** [gmail.com (recommended)](mailto:diamondgotcat@gmail.com) [diamondgotcat.net](mailto:nercone@diamondgotcat.net) [yajuusenp.ai](mailto:diamondgotcat@yajuusenp.ai)
+---
 
-## Repos
-- **[YPSH Language](https://github.com/YPSH-DGC/YPSH/)** A programming language with a simple and intuitive syntax
-- **[nerc-one-themes](https://github.com/DiamondGotCat/nerc-one-themes/)** A modern themepack for Visual Studio Code
-- **[SpeedClone](https://github.com/DiamondGotCat/SpeedClone/)** A slightly faster git clone tool
-- **[Zeta LLM](https://github.com/Zeta-DGC/Zeta-LLM/)** Fully Open-source LLM
-- **[NextDrop](https://github.com/DiamondGotCat/NextDrop/)** High-speed File Transfer Protocol
-- **[FastGet](https://github.com/DiamondGotCat/FastGet/)** High-speed File Downloading Tool
-- **[nercone-modern](https://github.com/DiamondGotCat/nercone-modern/)** Modern Logging and Progress Bar Library for Python
-- **[allowdynamic](https://github.com/DiamondGotCat/allowdynamic/)** Dynamic, callable-backed array-like access with optional caching for Python
-- **[Spaudio](https://github.com/DiamondGotCat/Spaudio/)** Spatial Audio Simulation Tool
-- **[DisplayCLI](https://github.com/DiamondGotCat/DisplayCLI/)** A CLI tool to manage display resolutions on macOS.
-- **[NVInstall](https://github.com/DiamondGotCat/NVInstall/)** Open-source NVIDIA Driver Installer for Linux
-- **[DGC-DNS](https://github.com/DiamondGotCat/DGC-DNS/)** A Practical and Lightweight Open-Source DNS Server
+I programming everyday for my curiosity.
+
+## Informations
+
+**Public Name:** Nercone (formerly DiamondGotCat)
+
+**Languages:** ja-JP (Native), en-US (Little)
+
+## Contact
+
+### Email
+[diamondgotcat.net](mailto:nercone@diamondgotcat.net) [gmail.com](mailto:diamondgotcat@gmail.com)
+
+### SNS
+[twitter.com](https://twitter.com/DiamondGotCat/)
+
+## Public Key (GnuPG)
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEaTwGrhYJKwYBBAHaRw8BAQdAbUWV+MmUqJl/1nRnYrBLkgj7kAIVSAB1VO2P
+KA3hyF60I05lcmNvbmUgPG5lcmNvbmVAZGlhbW9uZGdvdGNhdC5uZXQ+iJMEExYK
+ADsWIQR3AMyWjGdZL8n38lK49FVuUc7abwUCaTwGrgIbAwULCQgHAgIiAgYVCgkI
+CwIEFgIDAQIeBwIXgAAKCRC49FVuUc7abzKIAQCEw9UnQqVoDaAuOJM/CZiQBOcJ
+54Iooh4yF0IYZyht2wD/TpWF84XENFIsHDi1z/I7iZvGbljwphx1G9WT6+o8MwG4
+OARpPAauEgorBgEEAZdVAQUBAQdA/V7BYE1mDtaJSGJsU+yM5qTtmYYM+QCtCwXK
+f5OSGC8DAQgHiHgEGBYKACAWIQR3AMyWjGdZL8n38lK49FVuUc7abwUCaTwGrgIb
+DAAKCRC49FVuUc7ab2NtAP4ulwqdxzU/XyC4QlEr8c/48oSQr9GSbGNChpYO1Utz
+lwEA/icijJFORumXKLDPlBqUaFLlGhO5/orW8yJ/biygfQU=
+=TawG
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+**Fingerprint**
+```
+7700 CC96 8C67 592F C9F7 F252 B8F4 556E 51CE DA6F
+```
