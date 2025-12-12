@@ -19,7 +19,7 @@ I programming everyday for my curiosity.
 ### SNS
 [twitter.com](https://twitter.com/DiamondGotCat/)
 
-## Public Key (GnuPG)
+## PGP Public Key
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
