@@ -1,23 +1,16 @@
 
-<img width="1920" src="https://github.com/user-attachments/assets/670e9bcc-dc21-4a47-8c3a-2c6ec2ccff57" />
-
----
-
-I programming everyday for my curiosity.
+<img width="1920" src="https://github.com/user-attachments/assets/168e9319-526e-4102-92df-5886da54a3b9" />
 
 ## Informations
 
-**Public Name:** Nercone (formerly DiamondGotCat)
+I programming everyday for my curiosity.
 
+**Public Name:** Nercone (formerly DiamondGotCat)<br>
 **Languages:** ja-JP (Native), en-US (Little)
 
 ## Contact
 
-### Email
-[diamondgotcat.net](mailto:nercone@diamondgotcat.net) [gmail.com](mailto:diamondgotcat@gmail.com)
-
-### SNS
-[twitter.com](https://twitter.com/DiamondGotCat/)
+[email](mailto:nercone@diamondgotcat.net) [twitter.com](https://twitter.com/DiamondGotCat/)
 
 ## PGP Public Key
 ```
@@ -43,4 +36,4 @@ lwEA/icijJFORumXKLDPlBqUaFLlGhO5/orW8yJ/biygfQU=
 
 ---
 
-Thanks for visit my profile. Have a nice day!
+Thank you for visit my GitHub Profile. Have a nice day!
