@@ -2,15 +2,13 @@
 <img width="1920" src="https://github.com/user-attachments/assets/168e9319-526e-4102-92df-5886da54a3b9" />
 
 ## Informations
-
 I programming everyday for my curiosity.
 
 **Public Name:** Nercone (formerly DiamondGotCat)<br>
 **Languages:** ja-JP (Native), en-US (Little)
 
-## Contact
-
-[email](mailto:nercone@diamondgotcat.net) [twitter.com](https://twitter.com/DiamondGotCat/)
+### Links
+[website](https://diamondgotcat.net/) [email](mailto:nercone@diamondgotcat.net) [twitter](https://twitter.com/DiamondGotCat/)
 
 ## PGP Public Key
 ```
